@@ -1,7 +1,6 @@
-# Lr2
+# Lab2
 
-B13, B14 - PWM 0.15C
-
-B15 - variable PWM 
-
-A0 button - increase/decrease pulse
+Варіант 3
+C15 C14
+0.25C
+B1, B10, B11
